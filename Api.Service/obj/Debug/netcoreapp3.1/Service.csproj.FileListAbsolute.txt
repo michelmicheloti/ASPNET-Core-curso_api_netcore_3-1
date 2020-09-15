@@ -1,0 +1,9 @@
+E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
