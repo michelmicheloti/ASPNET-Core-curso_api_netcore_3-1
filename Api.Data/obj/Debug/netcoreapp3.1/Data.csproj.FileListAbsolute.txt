@@ -7,3 +7,6 @@ E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\obj\Debug\netcoreapp3.1\Data.Assembl
 E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
 E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
 E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
