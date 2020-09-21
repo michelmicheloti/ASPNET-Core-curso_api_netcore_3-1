@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Domain\\Domain.csproj": {}
+    "E:\\2 -Udemy\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Domain\\Domain.csproj": {}
   },
   "projects": {
-    "E:\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Domain\\Domain.csproj": {
+    "E:\\2 -Udemy\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\2 -Udemy\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "E:\\2 -Udemy\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\miche\\.nuget\\packages\\",
-        "outputPath": "E:\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Domain\\obj\\",
+        "outputPath": "E:\\2 -Udemy\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\miche\\AppData\\Roaming\\NuGet\\NuGet.Config"

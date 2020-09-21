@@ -1419,6 +1419,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
       }
     }
   },
@@ -5409,10 +5419,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Api.Domain/Domain.csproj",
+      "msbuildProject": "../Api.Domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.8",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.8",
@@ -5425,11 +5441,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Data\\Data.csproj",
+      "projectUniqueName": "E:\\2 -Udemy\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "E:\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Data\\Data.csproj",
+      "projectPath": "E:\\2 -Udemy\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Data\\Data.csproj",
       "packagesPath": "C:\\Users\\miche\\.nuget\\packages\\",
-      "outputPath": "E:\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Data\\obj\\",
+      "outputPath": "E:\\2 -Udemy\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\miche\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5442,7 +5458,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\2 -Udemy\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "E:\\2 -Udemy\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Domain\\Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

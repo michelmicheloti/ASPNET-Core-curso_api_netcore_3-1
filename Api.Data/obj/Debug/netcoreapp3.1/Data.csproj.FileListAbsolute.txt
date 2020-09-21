@@ -10,3 +10,18 @@ E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
 E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
 E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
 E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
