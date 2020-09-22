@@ -18,3 +18,23 @@ E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\obj\Debug\netcoreapp3.1\stati
 E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\obj\Debug\netcoreapp3.1\application.dll
 E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\obj\Debug\netcoreapp3.1\application.pdb
 E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\bin\Debug\netcoreapp3.1\appsettings.json
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\bin\Debug\netcoreapp3.1\application.exe
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\bin\Debug\netcoreapp3.1\application.deps.json
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\bin\Debug\netcoreapp3.1\application.runtimeconfig.json
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\bin\Debug\netcoreapp3.1\application.runtimeconfig.dev.json
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\bin\Debug\netcoreapp3.1\application.dll
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\bin\Debug\netcoreapp3.1\application.pdb
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\obj\Debug\netcoreapp3.1\application.csprojAssemblyReference.cache
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\obj\Debug\netcoreapp3.1\application.AssemblyInfoInputs.cache
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\obj\Debug\netcoreapp3.1\application.AssemblyInfo.cs
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CoreCompileInputs.cache
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cache
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\obj\Debug\netcoreapp3.1\application.RazorTargetAssemblyInfo.cache
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\obj\Debug\netcoreapp3.1\staticwebassets\application.StaticWebAssets.Manifest.cache
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\obj\Debug\netcoreapp3.1\staticwebassets\application.StaticWebAssets.xml
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\obj\Debug\netcoreapp3.1\application.dll
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\obj\Debug\netcoreapp3.1\application.pdb
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache

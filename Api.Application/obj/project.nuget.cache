@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b1Xy0Oc7IOzS8XicUAAirnzAH2Ws+6n9kmB9mz7llSRoIUY0zOyWFvf7fCN+lPjHtThsWMDaCTS0E+2RtvdJ4Q==",
+  "dgSpecHash": "ZifktVkKl+9yFXUVPYJU0lw0q92F7iobKIQWlqmS495spZJT66ieu3OPFzeHaarGPXsIuMURvLTkKXQFjQULEg==",
   "success": true,
-  "projectFilePath": "E:\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Application\\application.csproj",
+  "projectFilePath": "E:\\2 -Udemy\\ASPNET_Core-3-1\\API-NETCORE\\src\\Api.Application\\application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

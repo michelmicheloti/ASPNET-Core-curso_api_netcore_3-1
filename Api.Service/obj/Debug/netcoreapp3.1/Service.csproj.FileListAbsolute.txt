@@ -7,3 +7,12 @@ E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.A
 E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
 E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
 E:\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb

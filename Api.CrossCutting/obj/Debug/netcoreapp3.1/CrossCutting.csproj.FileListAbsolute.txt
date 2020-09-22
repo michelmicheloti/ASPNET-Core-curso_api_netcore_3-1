@@ -7,3 +7,12 @@ E:\ASPNET_Core-3-1\API-NETCORE\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\Cros
 E:\ASPNET_Core-3-1\API-NETCORE\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
 E:\ASPNET_Core-3-1\API-NETCORE\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
 E:\ASPNET_Core-3-1\API-NETCORE\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
