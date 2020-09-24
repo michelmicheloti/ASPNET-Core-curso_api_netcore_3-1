@@ -16,3 +16,10 @@ E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\
 E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
 E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
 E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\bin\Debug\netcoreapp3.1\CrossCutting.dll
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
