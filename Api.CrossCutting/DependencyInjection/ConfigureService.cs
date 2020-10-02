@@ -11,6 +11,7 @@ namespace Api.CrossCutting.DependencyInjection
             //AddScoped: Entra na plicação, se em 10 metodos necessitar usar IUserService, ele usrá a mesma instanica, para um cliclo de vida especifico
             //AddSingleton: Uma vez startado não poderá mudar a instancia 
             serviceCollection.AddTransient<IUserService, UserService> ();
+            serviceCollection.AddTransient<ILoginService, LoginService> ();
         }
     }
 }

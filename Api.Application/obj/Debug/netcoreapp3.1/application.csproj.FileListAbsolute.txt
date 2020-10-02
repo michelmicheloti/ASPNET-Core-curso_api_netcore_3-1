@@ -96,3 +96,4 @@ E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\bin\Debug\netcoreapp
 E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
+E:\2 -Udemy\ASPNET_Core-3-1\API-NETCORE\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
